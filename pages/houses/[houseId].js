@@ -1,4 +1,4 @@
-import Footer from '../../components/footer'
+import Footer from '../../components/Footer'
 import SideBar from '../../components/Sidebar'
 import TopNav from '../../components/TopNav'
 import styles from '../../styles/House.module.css'
